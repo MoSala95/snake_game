@@ -1,6 +1,6 @@
 # snake_game
 
-A new Flutter project.
+Flutter challenge to build classic snake game in one day.
 
 ## Getting Started
 
